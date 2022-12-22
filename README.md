@@ -12,7 +12,7 @@ code ~/.zshrc
 /Applications/Visual\ Studio\ Code.app/Contents/Resources/app/bin/code ~/.zshrc
 ```
 
-* In the `~/.zshrc` file, scroll down to the bottom and add the following line:
+* In the `~/.zshrc` file, scroll down to the bottom and add the following line (change the string in the quotation marks to whatever you want):
 
 ```
 PROMPT='> '
