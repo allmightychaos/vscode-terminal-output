@@ -5,6 +5,8 @@
 
 ```
 code ~/.zshrc
+// If that does not work, you can try:
+/Applications/Visual\ Studio\ Code.app/Contents/Resources/app/bin/code ~/.zshrc
 ```
 
 * In the `~/.zshrc` file, scroll down to the bottom and add the following line:
