@@ -5,7 +5,10 @@
 
 ```
 code ~/.zshrc
-// If that does not work, you can try:
+```
+* If that does not work, you can try:
+
+```
 /Applications/Visual\ Studio\ Code.app/Contents/Resources/app/bin/code ~/.zshrc
 ```
 
